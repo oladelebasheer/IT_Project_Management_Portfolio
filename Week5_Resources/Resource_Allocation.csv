@@ -1,4 +1,4 @@
-Role,Name,Skills,Allocation (%)
-Project Manager,Alice,Leadership,50
-Developer,Bob,Java/Python,100
-Designer,Clara,UI/UX,75
+Task,Estimated Hours,Resource,Notes
+UI Design,8,UX Designer,Simple mobile login screen
+Backend Authentication,20,Developer,Secure login + DB integration
+Security Features,12,Security Officer,"Password hashing, 2FA"
