@@ -1,0 +1,3 @@
+Risk ID,Description,Probability,Impact,Mitigation Plan
+R1,Server downtime,High,High,Cloud failover setup
+R2,Budget overrun,Medium,High,Weekly finance check

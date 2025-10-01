@@ -1,2 +1,3 @@
-# IT_Project_Management_Portfolio
-IT Project Management Portfolio
+# IT Project Management Repository
+
+This repository contains weekly assignments, templates, and project management artifacts for GCC 3302 – IT Project Management.

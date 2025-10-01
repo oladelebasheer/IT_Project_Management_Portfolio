@@ -1,0 +1,4 @@
+ID,Task,Subtask,Duration (days),Dependency
+1,Project Planning,,5,
+1.1,Define Scope,,2,
+1.2,Identify Stakeholders,,3,1.1
