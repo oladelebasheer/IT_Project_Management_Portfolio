@@ -1,3 +1,6 @@
-Task,Estimated Hours,Estimated Cost,Notes
-Login Module,40,1000,Includes backend + frontend
-Database Setup,30,800,Initial setup and config
+Task,Estimated Hours,Resource,Notes
+UI Design,8,UX Designer,Mobile-friendly login form
+Backend Authentication,20,Developer,Secure login + DB connection
+Security Features,12,Security Officer,Password hashing + 2FA
+Testing & QA,10,QA Engineer,Unit + functional tests
+TOTAL,50,,Overall effort

@@ -2,3 +2,9 @@ ID,Task,Subtask,Duration (days),Dependency
 1,Project Planning,,5,
 1.1,Define Scope,,2,
 1.2,Identify Stakeholders,,3,1.1
+2,Requirements Gathering,,7,
+2.1,User Stories Collection,,3,
+2.2,Technical Specifications,,4,2.1
+3,Design,,6,
+3.1,UI/UX Mockups,,3,
+3.2,Database Schema Design,,3,2.2

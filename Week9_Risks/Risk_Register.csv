@@ -1,3 +1,9 @@
-Risk ID,Description,Probability,Impact,Mitigation Plan
-R1,Server downtime,High,High,Cloud failover setup
-R2,Budget overrun,Medium,High,Weekly finance check
+# Risk Register – Mobile Banking App
+
+| Risk ID | Description                     | Probability | Impact | Risk Rating | Mitigation Strategy                  |
+|---------|---------------------------------|-------------|--------|-------------|--------------------------------------|
+| R1      | Delay in backend integration    | High        | High   | Critical    | Weekly vendor follow-ups, buffer time|
+| R2      | Cybersecurity attack            | Medium      | High   | High        | Penetration testing, firewall upgrades|
+| R3      | Scope creep (extra features)    | Medium      | Medium | Medium      | Strict change control, sponsor approval|
+| R4      | User adoption lower than target | Low         | High   | Medium      | Marketing campaign, training sessions |
+| R5      | Developer turnover              | Medium      | Medium | Medium      | Cross-training, backup resources      |
